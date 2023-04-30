@@ -1,4 +1,7 @@
-# This website showcases some of my projects, skills, and experiences as a developer. It is designed to be simple, clean, and easy to navigate.
+#Portfolio page used with HTML, CSS, JS and SASS
+
+
+This website showcases some of my projects, skills, and experiences as a developer. It is designed to be simple, clean, and easy to navigate.
 
 Currently, the website includes the following sections:
 
